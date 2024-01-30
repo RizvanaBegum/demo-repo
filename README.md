@@ -1,4 +1,4 @@
-# Getting Started with Amazon Simple Storage Service (Amazon S3) Lab
+# Deep Dive into Amazon S3 with Terraform 
 
 This lab provides a hands-on introduction to Amazon S3 using Terraform. By following this guide, you'll learn how to create an S3 bucket, upload objects, configure static website hosting, manage Access Control Lists (ACLs), implement object versioning, and add a policy to prevent object deletion.
 
