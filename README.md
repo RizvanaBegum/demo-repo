@@ -22,4 +22,14 @@ Before you begin, make sure you have the following:
    - Configures the S3 bucket to host a static website.
 
 ### 4. Managing ACLs:
-   - Sets public read access for uploaded objects
+   - Sets public read access for uploaded objects using Access Control Lists (ACLs).
+
+### 5. Implementing Object Versioning:
+   - Enables versioning for the S3 bucket.
+
+### 6. Adding Deletion Prevention Policy:
+   - Creates a bucket policy to deny object deletion.
+
+### 7. Getting Version ID for Objects:
+   - Retrieves version IDs for uploaded objects.
+
